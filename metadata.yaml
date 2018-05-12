@@ -1,10 +1,16 @@
 _repo: Pedal-and-Path-Across-the-Continent-Aweel-and-Afoot_49474
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49474-h/images/frontcover.jpg
 creator:
   author:
     agent_name: Thayer, George B.
     gutenberg_agent_id: '45356'
     url: http://www.gutenberg.org/2009/agents/45356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49474#Pedal-and-Path-Across-the-Continent-Aweel-and-Afoot
 gutenberg_issued: '2015-07-18'
 gutenberg_type: Text
 identifiers:
